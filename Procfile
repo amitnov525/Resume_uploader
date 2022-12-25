@@ -1,0 +1,1 @@
+web: gunicorn 'reumse_uploader.wsgi'
